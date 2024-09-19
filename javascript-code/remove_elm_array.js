@@ -1,14 +1,3 @@
-// Object values sum
-// const obj = {
-//     a: 1,
-//     b: 2,
-//     c: 3,
-//     d: 4,
-// };
-// const sum = Object.values(obj).reduce((acc, curr) => acc + curr, 0);
-// console.log(sum);
-
-
 // Using filter method:
 let arr = [1,2,2,6,5,8,6,5,4,8,3,7,3];
 // let uniqueArr = arr.filter((item, index) => arr.indexOf(item) === index);
