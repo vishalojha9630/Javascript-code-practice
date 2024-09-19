@@ -11,5 +11,3 @@ for (const element of arr) {
     }
 }
 console.log(fruits);
-console.log(vegetable);
-
