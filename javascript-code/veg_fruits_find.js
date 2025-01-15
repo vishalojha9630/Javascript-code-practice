@@ -6,8 +6,10 @@ let vegetable = []
 for (const element of arr) {
     if (element === 'apple' || element === 'banana' || element === 'papaya') {
         fruits.push(element)
-    } else if (element === 'carrots' || element === 'tomato' || element === 'potato') {
+    }
+    else {
         vegetable.push(element)
     }
 }
 console.log(fruits);
+console.log(vegetable);
